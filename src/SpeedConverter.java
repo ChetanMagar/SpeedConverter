@@ -17,3 +17,7 @@ public class SpeedConverter {
     }
 
 }
+
+class Demo{
+
+}
